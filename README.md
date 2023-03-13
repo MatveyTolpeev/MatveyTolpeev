@@ -15,6 +15,7 @@
 ![Redis](https://img.shields.io/badge/Redis-171515?style=flat-square&logo=Redis)
 ![Nginx](https://img.shields.io/badge/Nginx-black?style=flat-square&logo=Nginx)
 ![Pytest](https://img.shields.io/badge/Pytest-171515?style=flat-square&logo=Pytest)
+![Vue](https://img.shields.io/badge/Vue-171515?style=flat-square&logo=Vue.js)
 
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS-black?style=flat-square&logo=CSS3)

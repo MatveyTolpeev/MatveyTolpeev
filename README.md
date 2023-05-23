@@ -10,6 +10,7 @@
 ![Docker-compose](https://img.shields.io/badge/Docker--compose-black?style=flat-square&logo=Docker)
 ![Redis](https://img.shields.io/badge/Redis-171515?style=flat-square&logo=Redis)
 ![Pytest](https://img.shields.io/badge/Pytest-171515?style=flat-square&logo=Pytest)
+![FastAPI](https://img.shields.io/badge/FastAPI-171515?style=flat-square&logo=FastAPI)
 
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS-black?style=flat-square&logo=CSS3)
